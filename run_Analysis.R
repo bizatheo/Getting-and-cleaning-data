@@ -1,4 +1,3 @@
-setwd("C:\\Users\\lucp7657\\Desktop\\An Introduction to Statistical Learning\\COURSERA\\GET AND CLEANING DATA\\PEER\\data")
 
 #Reading Data into R:
 subjtst <- read.table("subject_test.txt")
